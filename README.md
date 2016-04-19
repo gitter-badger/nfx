@@ -1,4 +1,8 @@
 # NFX
+
+[![Join the chat at https://gitter.im/aumcode/nfx](https://badges.gitter.im/aumcode/nfx.svg)](https://gitter.im/aumcode/nfx?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+[![Join the chat at https://gitter.im/itadapter/nfx](https://badges.gitter.im/itadapter/nfx.svg)](https://gitter.im/itadapter/nfx?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Server UNISTACK framework.
 
 License: Apache 2.0
